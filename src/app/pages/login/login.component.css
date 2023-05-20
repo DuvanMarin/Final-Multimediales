@@ -1,0 +1,722 @@
+:host {
+  display: contents;
+}
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 848px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-login1 {
+  top: 0px;
+  left: 0px;
+  width: 1294px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.login-group60 {
+  top: 0px;
+  left: 0px;
+  width: 1294px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 21, 42, 1);
+}
+.login-group75 {
+  top: 0px;
+  left: 0px;
+  width: 648px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-div {
+  top: 0px;
+  left: 0px;
+  width: 648px;
+  height: 848px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 71px 0px rgba(7, 15, 48, 0.15000000596046448);
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(30, 21, 42, 1);
+}
+.login-svg {
+  top: 17px;
+  left: 30px;
+  width: 241px;
+  height: 120px;
+  position: absolute;
+}
+.login-div01 {
+  gap: 40px;
+  top: 215px;
+  left: 116px;
+  width: 405px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 42px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div02 {
+  gap: 30px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-div03 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text02 {
+  color: rgba(18, 22, 37, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-inputemail {
+  display: flex;
+  padding: 10px 17px;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(248, 248, 249, 1);
+}
+.login-divplaceholder {
+  display: flex;
+  padding: 0 249px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.login-text04 {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div04 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text06 {
+  color: rgba(18, 22, 37, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div05 {
+  width: 405px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-inputpassword {
+  top: 0px;
+  left: 0px;
+  width: 405px;
+  display: flex;
+  padding: 10px 41px 10px 17px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(248, 248, 249, 1);
+}
+.login-divplaceholder1 {
+  display: flex;
+  padding: 0 189px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.login-text08 {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-svg1 {
+  top: 8px;
+  left: 373px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-div06 {
+  width: 405px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-text10 {
+  top: 0.5px;
+  left: 206.609375px;
+  color: rgba(40, 237, 178, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-label {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-span {
+  top: 4px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(226, 232, 240, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 2px;
+}
+.login-text12 {
+  top: 3px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div07 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-button {
+  display: flex;
+  padding: 10px 154.640625px 10px 155.359375px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(50, 212, 164, 1);
+}
+.login-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-button1 {
+  display: flex;
+  padding: 10px 119.984375px 10px 119.015625px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-text16 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div08 {
+  top: 1014px;
+  left: -30px;
+  width: 708px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-text18 {
+  top: 2px;
+  color: rgba(18, 22, 37, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text20 {
+  top: 2px;
+  left: 592.59375px;
+  color: rgba(18, 22, 37, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.login-pixabay1839406 {
+  top: 0px;
+  left: 647px;
+  width: 647px;
+  height: 848px;
+  position: absolute;
+}
+.login-login2 {
+  top: 0px;
+  left: 0px;
+  width: 1294px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-group601 {
+  top: 0px;
+  left: 0px;
+  width: 1294px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 21, 42, 1);
+}
+.login-group751 {
+  top: 0px;
+  left: 55px;
+  width: 648px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-div09 {
+  top: 0px;
+  left: 0px;
+  width: 648px;
+  height: 848px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 71px 0px rgba(7, 15, 48, 0.15000000596046448);
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(30, 21, 42, 1);
+}
+.login-svg2 {
+  top: 17px;
+  left: 30px;
+  width: 241px;
+  height: 120px;
+  position: absolute;
+}
+.login-div10 {
+  gap: 40px;
+  top: 215px;
+  left: 116px;
+  width: 405px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text22 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 42px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div11 {
+  gap: 30px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-div12 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text24 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-button2,
+.login-button3 {
+  transition: opacity 0.3s ease;
+}
+
+.login-button2:hover,
+.login-button3:hover {
+  opacity: 0.8;
+}
+.login-inputemail1 {
+  display: flex;
+  padding: 10px 17px;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(248, 248, 249, 1);
+}
+.login-divplaceholder2 {
+  display: flex;
+  padding: 0 210px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+  padding-right: 140px;
+}
+.login-text26 {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div13 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text28 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div14 {
+  width: 405px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-inputpassword1 {
+  top: 0px;
+  left: 0px;
+  width: 405px;
+  display: flex;
+  padding: 10px 41px 10px 17px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(248, 248, 249, 1);
+}
+.login-divplaceholder3 {
+  display: flex;
+  padding: 0 189px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+  padding-right: 183px;
+}
+.login-text30 {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-svg3 {
+  top: 8px;
+  left: 373px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-div15 {
+  width: 405px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-text32 {
+  top: 0.5px;
+  left: 206.609375px;
+  color: rgba(165, 200, 130, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-label1 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-span1 {
+  top: 4px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(226, 232, 240, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 2px;
+}
+.login-text34 {
+  top: 3px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div16 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-button2 {
+  display: flex;
+  padding: 10px 154.640625px 10px 155.359375px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(247, 221, 114, 1);
+}
+.login-text36 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-button3 {
+  display: flex;
+  padding: 10px 119.984375px 10px 119.015625px;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-text38 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-div17 {
+  top: 1014px;
+  left: -30px;
+  width: 708px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-text40 {
+  top: 2px;
+  color: rgba(18, 22, 37, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text42 {
+  top: 2px;
+  left: 592.59375px;
+  color: rgba(18, 22, 37, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.login-image38 {
+  top: 26px;
+  left: 291px;
+  width: 138px;
+  height: 107px;
+  position: absolute;
+}
+.login-pixabay18394061 {
+  top: 0px;
+  left: 647px;
+  width: 647px;
+  height: 848px;
+  position: absolute;
+}

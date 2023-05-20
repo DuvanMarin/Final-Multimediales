@@ -1,0 +1,931 @@
+:host {
+  display: contents;
+}
+.sign-up3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up3-sign-up3 {
+  width: 100%;
+  height: 848px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-up3-group60 {
+  top: -9px;
+  left: 0px;
+  width: 1294px;
+  height: 848px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 21, 42, 1);
+}
+.sign-up3-group61 {
+  top: -9px;
+  left: 0px;
+  width: 1294px;
+  height: 1006px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 21, 42, 1);
+}
+.sign-up3-div {
+  gap: 38px;
+  top: 0px;
+  left: 179px;
+  width: 936px;
+  height: 823px;
+  display: flex;
+  padding: 75px 0 0 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.sign-up3-image38 {
+  width: 109px;
+  height: 71px;
+}
+.sign-up3-logo2 {
+  width: 141px;
+  height: 134px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-up3-clippathgroup {
+  top: 48.66845703125px;
+  left: 23.938995361328125px;
+  width: 12.109845161437988px;
+  height: 36.9100227355957px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-a6025dffaf {
+  top: 0px;
+  left: 0px;
+  width: 12.109845161437988px;
+  height: 36.9100227355957px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 37px;
+  position: absolute;
+}
+.sign-up3-group {
+  top: 3.5321269820087764e-7px;
+  left: 0.1909376084804535px;
+  width: 11.911894798278809px;
+  height: 36.9100227355957px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 37px;
+  position: absolute;
+}
+.sign-up3-clippathgroup1 {
+  top: 70.703125px;
+  left: 13.973541259765625px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-c2c9b04989 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-group01 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-clippathgroup2 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-frame572541114f {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-group02 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-clippathgroup3 {
+  top: 57.958984375px;
+  left: 13.973541259765625px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-frame012ccbaa80 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-group03 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-clippathgroup4 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-frame1361bfee97 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-group04 {
+  top: 0px;
+  left: 0px;
+  width: 5.836812973022461px;
+  height: 5.547041893005371px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.sign-up3-group05 {
+  top: 49.61865234375px;
+  left: 44.83282470703125px;
+  width: 9.135625839233398px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group06 {
+  top: 0px;
+  left: 0px;
+  width: 9.135625839233398px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group07 {
+  top: 0px;
+  left: 0px;
+  width: 9.135625839233398px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+}
+.sign-up3-group08 {
+  top: 49.61865234375px;
+  left: 56.905029296875px;
+  width: 14.429000854492188px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group09 {
+  top: 0px;
+  left: 0px;
+  width: 14.429000854492188px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group10 {
+  top: 0px;
+  left: 0px;
+  width: 14.429000854492188px;
+  height: 14.98566722869873px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+}
+.sign-up3-group11 {
+  top: 49.61865234375px;
+  left: 73.80157470703125px;
+  width: 12.830999374389648px;
+  height: 15.298334121704102px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group12 {
+  top: 0px;
+  left: 0px;
+  width: 12.830999374389648px;
+  height: 15.298334121704102px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group13 {
+  top: 0px;
+  left: 0px;
+  width: 12.830999374389648px;
+  height: 15.298334121704102px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.sign-up3-group14 {
+  top: 49.30615234375px;
+  left: 89.098876953125px;
+  width: 14.429000854492188px;
+  height: 15.611000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group15 {
+  top: 0px;
+  left: 0px;
+  width: 14.429000854492188px;
+  height: 15.611000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group16 {
+  top: 0px;
+  left: 0px;
+  width: 14.429000854492188px;
+  height: 15.611000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+}
+.sign-up3-group17 {
+  top: 49.3505859375px;
+  left: 104.23110961914062px;
+  width: 14.617000579833984px;
+  height: 15.253667831420898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group18 {
+  top: 0px;
+  left: 0px;
+  width: 14.617000579833984px;
+  height: 15.253667831420898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group19 {
+  top: 0px;
+  left: 0px;
+  width: 14.617000579833984px;
+  height: 15.253667831420898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.sign-up3-group20 {
+  top: 69.1220703125px;
+  left: 44.133697509765625px;
+  width: 14.276249885559082px;
+  height: 13.969499588012695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group21 {
+  top: 0px;
+  left: 0px;
+  width: 14.276249885559082px;
+  height: 13.969499588012695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group22 {
+  top: 0px;
+  left: 0px;
+  width: 14.276249885559082px;
+  height: 13.969499588012695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-group23 {
+  top: 68.9208984375px;
+  left: 61.2799072265625px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group24 {
+  top: 0px;
+  left: 0px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group25 {
+  top: 0px;
+  left: 0px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-group26 {
+  top: 69.32861328125px;
+  left: 76.50927734375px;
+  width: 7.243875026702881px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group27 {
+  top: 0px;
+  left: 0px;
+  width: 7.243875026702881px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group28 {
+  top: 0px;
+  left: 0px;
+  width: 7.243875026702881px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-group29 {
+  top: 69.32861328125px;
+  left: 86.5201416015625px;
+  width: 1.4922500848770142px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group30 {
+  top: 0px;
+  left: 0px;
+  width: 1.4922500848770142px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group31 {
+  top: 0px;
+  left: 0px;
+  width: 1.4922500848770142px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector16 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-group32 {
+  top: 68.9208984375px;
+  left: 91.73858642578125px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group33 {
+  top: 0px;
+  left: 0px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group34 {
+  top: 0px;
+  left: 0px;
+  width: 11.503250122070312px;
+  height: 14.377083778381348px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector17 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-group35 {
+  top: 69.32861328125px;
+  left: 106.96792602539062px;
+  width: 7.4553751945495605px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group36 {
+  top: 0px;
+  left: 0px;
+  width: 7.4553751945495605px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-group37 {
+  top: 0px;
+  left: 0px;
+  width: 7.4553751945495605px;
+  height: 13.56191635131836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-vector18 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 14px;
+  position: absolute;
+}
+.sign-up3-div1 {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-up3-div2 {
+  top: 0px;
+  left: -0.125px;
+  width: 32px;
+  display: flex;
+  padding: 4px 13.453125px 4px 11.546875px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(165, 168, 179, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 16px;
+  background-color: rgba(30, 21, 42, 1);
+}
+.sign-up3-text {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up3-div3 {
+  top: 15px;
+  left: 31.875px;
+  width: 60px;
+  height: 2px;
+  position: absolute;
+}
+.sign-up3-div4 {
+  top: 0px;
+  left: 91.875px;
+  width: 32px;
+  display: flex;
+  padding: 4px 11.453125px 4px 11.546875px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(165, 168, 179, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 16px;
+  background-color: rgba(30, 21, 42, 1);
+}
+.sign-up3-text1 {
+  color: rgba(165, 168, 179, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up3-div5 {
+  top: 15px;
+  left: 123.875px;
+  width: 60px;
+  height: 2px;
+  position: absolute;
+}
+.sign-up3-div6 {
+  top: 0px;
+  left: 183.875px;
+  width: 32px;
+  display: flex;
+  padding: 4px 11.453125px 4px 11.546875px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(165, 168, 179, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 16px;
+  background-color: rgba(165, 200, 130, 1);
+}
+.sign-up3-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up3-div7 {
+  width: 462px;
+  height: 29px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-up3-text3 {
+  left: 80px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up3-group28 {
+  width: 682px;
+  height: 195.5px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up3-rectangle5 {
+  top: 0px;
+  left: 381.25px;
+  width: 300px;
+  height: 195px;
+  position: absolute;
+  border-color: rgba(241, 241, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.sign-up3-rectangle51 {
+  top: 0.5px;
+  left: 0px;
+  width: 300px;
+  height: 195px;
+  position: absolute;
+  border-color: rgba(241, 241, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.sign-up3-div8 {
+  gap: 12px;
+  height: 40px;
+  display: flex;
+  padding: 0 0 0 198.71875px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.sign-up3-buttonregisterpreviousbutton {
+  gap: 7px;
+  display: flex;
+  padding: 11px 17.734375px 11px 17px;
+  align-items: center;
+  border-color: rgba(230, 230, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sign-up3-svg {
+  width: 16px;
+  height: 16px;
+}
+.sign-up3-text5 {
+  color: rgba(18, 22, 37, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up3-buttonregisternextbutton {
+  display: flex;
+  padding: 11px 17.796875px 11px 17px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(247, 221, 114, 1);
+}
+
+.sign-up3-group28 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sign-up3-radio {
+  display: none;
+}
+
+.sign-up3-label {
+  cursor: pointer;
+}
+
+.sign-up3-rectangle5,
+.sign-up3-rectangle51 {
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.sign-up3-radio:checked + .sign-up3-label .sign-up3-rectangle5,
+.sign-up3-radio:checked + .sign-up3-label .sign-up3-rectangle51 {
+  border-color: #fff;
+}
+
+.sign-up3-div8 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sign-up3-buttonregisterpreviousbutton,
+.sign-up3-buttonregisternextbutton {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #000;
+  border: none;
+  transition: opacity 0.3s ease;
+}
+
+.sign-up3-buttonregisterpreviousbutton:hover,
+.sign-up3-buttonregisternextbutton:hover {
+  opacity: 0.8;
+}
+
+.sign-up3-text7 {
+  color: #000;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
